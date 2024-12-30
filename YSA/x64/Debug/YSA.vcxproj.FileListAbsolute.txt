@@ -1,0 +1,3 @@
+C:\Users\elifs\Desktop\ysaYeni\YSA\YSA\x64\Debug\YSA.vcxproj.AssemblyReference.cache
+C:\Users\elifs\Desktop\ysaYeni\YSA\YSA\x64\Debug\YSA.Form1.resources
+C:\Users\elifs\Desktop\ysaYeni\YSA\YSA\x64\Debug\YSA.vcxproj.GenerateResource.cache

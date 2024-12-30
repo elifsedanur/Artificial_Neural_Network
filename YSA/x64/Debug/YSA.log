@@ -1,0 +1,24 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\elifs\Desktop\ysaYeni\YSA\YSA\Sample.h(30,13): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\elifs\Desktop\ysaYeni\YSA\YSA\Form1.h(641,13): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\elifs\Desktop\ysaYeni\YSA\YSA\Form1.h(674,67): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\elifs\Desktop\ysaYeni\YSA\YSA\Form1.h(657,16): warning C4101: 'n': yerel değişken başvurusu kaldırıldı
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\elifs\Desktop\ysaYeni\YSA\YSA\Form1.h(738,16): warning C4101: 'n': yerel değişken başvurusu kaldırıldı
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\elifs\Desktop\ysaYeni\YSA\YSA\Form1.h(1069,38): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\elifs\Desktop\ysaYeni\YSA\YSA\Form1.h(1070,39): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+  AssemblyInfo.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
+  YSA.vcxproj -> C:\Users\elifs\Desktop\ysaYeni\YSA\x64\Debug\YSA.exe
